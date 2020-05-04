@@ -1,0 +1,59 @@
+
+
+.navbar-nav li a {
+    color: white;
+}
+
+li {
+    padding-left: 10px;
+}
+ button {
+     margin-left: 10PX;
+ }
+
+ .navbar-nav li a:HOVER {
+    color: black;
+}
+
+.btn-success {
+    margin-left: 10px;
+    outline: none;
+    margin-top: 10PX;
+}
+
+
+
+.align {
+    margin-left: 7px;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+
+ #content {
+     padding-top: 15%;
+     text-align: center;
+     color: white;
+ }  
+
+header {
+    background-image: url(../photos/HEAD2.png);
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 700px;
+    
+}
+
+.phone {
+    color: white
+}
+
+.phone:hover {
+    color: black;
+}

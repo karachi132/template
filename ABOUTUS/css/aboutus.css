@@ -1,0 +1,78 @@
+header {
+    background-image: url(../photos/HEAD2.png);
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 700px;
+}
+.phone {
+    background-image: url(../photos/down.png);
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 200px;
+}
+.small{
+    background-image: url(../photos/ju.png);
+    background-repeat: no-repeat;
+   width: 100%;
+   height: 600px;
+}
+.btn-success {
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.out{
+    color: #0f5f5c; 
+    font-family: 'Roboto', sans-serif;
+    font-size:32px; 
+    border-bottom: 1px solid #83a7a5;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif; text-align:center; font-size:14px; color:#83a7a5;
+}
+.card-text1{
+    font-family: 'Roboto', sans-serif;font-size:15px; color:#83a7a5;
+}
+
+.big {
+    color: #0f5f5c; 
+    font-family: 'Roboto', sans-serif;
+    font-size:32px; 
+    text-align: center;
+}
+.card-title{
+    color: #0f5f5c; 
+    font-family: 'Roboto', sans-serif;
+    font-size:16px; 
+    text-align: center;
+    font-weight:700;
+}
+.card-title1{
+    color: #0f5f5c; 
+    font-family: 'Roboto', sans-serif;
+    font-size:16px;
+    font-weight:700;
+}
+.btn-lg{
+    background-image: url(../photos/button.png);
+    float:right;
+    margin-right: 100px;
+    margin-top: 70px;
+}
+.tag{
+    padding-top:40px ;
+}
+.name{
+    padding-top:80px ;
+}
+.auto{
+    padding-top:10px;
+}
+
+ li {
+     list-style: none;
+ }
+
+ input[type='email'] {
+     border: none;
+ }
